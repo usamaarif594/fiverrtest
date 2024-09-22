@@ -1,0 +1,16 @@
+# Ignore python build artifacts
+src/__pycache__/
+
+# Ignore virtual environment
+venv/
+
+# Ignore vscode files
+.vscode/
+
+# Ignore streamlit secrets
+.streamlit/secrets.toml
+
+images/
+
+test.py
+
